@@ -18,7 +18,7 @@
       "description": "Pyrogram session string",
       "required": true
     },
-    "BOT_TOKEN": {
+    "BOT_TOKEN": {AAHHgn9O7gT2xqElr0RRoDzg3pyRC1KS6Gw
       "description": "A bot token from @BotFather",
       "required": true
     },
